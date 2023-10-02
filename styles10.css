@@ -1,6 +1,10 @@
-body, h1, h2, p, ul, li {
+body, h1, h2 {
     margin: 10px;
     padding: 3px;
+}
+ p, ul, li {
+    margin: 0px;
+    padding: 0px;
 }
 
 /* Style the body */
