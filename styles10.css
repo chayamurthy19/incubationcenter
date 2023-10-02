@@ -1,5 +1,3 @@
-/* Add your CSS styles here */
-/* Reset some default styles */
 body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
@@ -49,7 +47,7 @@ nav div {
     list-style-type: none;
     display: flex;
     justify-content: center;
-    background-color: #ab8faa;
+    background-color: #dabfc3;
 align-items: self
     padding: 10px;
 }
@@ -75,9 +73,9 @@ nav a {
     color: #fff;
     border: 10px;
     cursor: pointer;
-    padding: 5px 35px;
-    spacing: 5px 35px;
-    border-radius: 20px;
+    padding: 5px 20px;
+    spacing: 5px 20px;
+    border-radius: 15px;
 }
 
 /* Style the dropdown content */
