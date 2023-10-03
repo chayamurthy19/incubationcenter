@@ -51,7 +51,7 @@ nav div {
     list-style-type: none;
     display: flex;
     justify-content: center;
-    background-color: #dabfc3;
+    background-color: #eb90db;
 align-items: self
     padding: 10px;
 }
@@ -117,7 +117,7 @@ nav a {
 .column {
   flex: 50%;
   padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
+  height: 150px; /* Should be removed. Only for demonstration */
 }
 /* Style the footer */
 
